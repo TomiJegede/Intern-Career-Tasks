@@ -14,7 +14,9 @@ I focused on tackling data inconsistencies in subscriber counts, likes, comments
 
 ## Tools & Technologies:
 • Excel
+
 • Tableau
+
 • R
 
 Through this project, I enhanced my skills in data wrangling, visualization, and storytelling, transforming raw data into actionable insights. 
